@@ -1,5 +1,5 @@
 package com.sontxdev.cinema.enums;
 
-public enum PaymentStatus {
+public enum PaymentStatusEnum {
     Completed, Pending, Failed, Refunded
 }

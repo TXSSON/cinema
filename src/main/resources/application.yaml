@@ -1,0 +1,19 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api/v1
+spring:
+  application:
+    name: cinema
+  datasource:
+    url: jdbc:mysql://localhost:3306/cinema?useSSL=false&serverTimezone=UTC
+    username: root
+    password: Txshust2004@
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+
+
+

@@ -1,5 +1,5 @@
 package com.sontxdev.cinema.enums;
 
-public enum MovieStatus {
+public enum MovieStatusEnum {
     Coming_Soon, Now_Showing ,Completed
 }

@@ -1,5 +1,5 @@
 package com.sontxdev.cinema.enums;
 
-public enum Gender {
+public enum GenderEnum {
     MALE,FEMALE, OTHER
 }

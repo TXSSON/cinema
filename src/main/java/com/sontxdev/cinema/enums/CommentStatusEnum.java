@@ -1,5 +1,5 @@
 package com.sontxdev.cinema.enums;
 
-public enum CommentStatus {
+public enum CommentStatusEnum {
     Refactored, Deleted, Active
 }

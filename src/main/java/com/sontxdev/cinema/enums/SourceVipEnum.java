@@ -1,5 +1,5 @@
 package com.sontxdev.cinema.enums;
 
-public enum SourceVip {
+public enum SourceVipEnum {
     Admin, Payment, GiftCode
 }

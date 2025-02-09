@@ -1,5 +1,5 @@
 package com.sontxdev.cinema.enums;
 
-public enum TypeMovie {
+public enum TypeMovieEnum {
     Single, Series
 }

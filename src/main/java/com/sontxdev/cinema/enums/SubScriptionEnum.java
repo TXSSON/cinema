@@ -1,5 +1,5 @@
 package com.sontxdev.cinema.enums;
 
-public enum SubScription {
+public enum SubScriptionEnum {
     Vip, Free
 }
